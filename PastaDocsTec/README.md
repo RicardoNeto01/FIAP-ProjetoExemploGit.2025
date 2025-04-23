@@ -3,4 +3,4 @@
 -Desenho de arquitetura.
 -Modelagem UML.
 -Modelagem de banco de dados. 
-
+-Proposta de projeto técnico
